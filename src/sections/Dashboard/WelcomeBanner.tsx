@@ -102,19 +102,19 @@ export function WelcomeBanner() {
   return (
     <Welcome>
       <div>
-        <h1>Welcome to HUNNY Casino👋</h1>
+        <h1>Welcome to HUNNY Casino🐰</h1>
         <p>
           Version 0.0.1
         </p>
       </div>
       <Buttons>
-        <button onClick={() => window.open('https://v2.gamba.so/', '_blank')}>
-          🚀 Add Liquidity
+        <button onClick={() => window.open('https://www.dextools.io/app/en/solana/pair-explorer/3RM9jtUDPWyogbi2fzxFFMCBUwQQzVkD73h2TS5TaJV9?t=1710548013885')}>
+          🚀 BUY HUNNY
         </button>
-        <button onClick={() => window.open('https://github.com/gamba-labs/gamba', '_blank')}>
-          👨‍💻 Build your own
+        <button onClick={() => window.open('https://x.com/HunnyOnSol')}>
+          👨‍💻 FOLLOW US
         </button>
-        <button onClick={() => window.open('https://discord.gg/HSTtFFwR', '_blank')}>
+        <button onClick={() => window.open('https://discord.gg/nWfMeh87BD')}>
           💬 Discord
         </button>
       </Buttons>
