@@ -3,7 +3,7 @@
 	"short_name": "Gamba",
 	"start_url": "/",
 	"display": "standalone",
-	"background_color": "#000000",
+	"background_color": "#7affd8",
 	"lang": "en",
 	"scope": "/",
 	"theme_color": "#FF5555",
