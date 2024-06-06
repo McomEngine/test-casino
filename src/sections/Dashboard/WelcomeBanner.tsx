@@ -102,9 +102,9 @@ export function WelcomeBanner() {
   return (
     <Welcome>
       <div>
-        <h1>Welcome to Gamba v2 👋</h1>
+        <h1>Welcome to HUNNY Casino👋</h1>
         <p>
-          A fair, simple and decentralized casino on Solana.
+          Version 0.0.1
         </p>
       </div>
       <Buttons>
